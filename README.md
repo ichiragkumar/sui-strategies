@@ -1,73 +1,94 @@
-# Welcome to your Lovable project
+# 💜 DeFi Strategy Agent - v1+
 
-## Project info
+_Built with ❤️ using [Lovable](https://lovable.dev)  
+Crafted for the Sui ecosystem using Eliza OS_
 
-**URL**: https://lovable.dev/projects/8caea8e8-52f7-45be-b056-02453c34d455
+---
 
-## How can I edit this code?
+## 🚀 Introduction
 
-There are several ways of editing your application.
+The **AI-powered DeFi Strategy Agent** is your personal DeFi co-pilot on the **Sui blockchain**. It suggests personalized yield strategies using natural language prompts, executes them in one click, and tracks your performance — all in real time.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8caea8e8-52f7-45be-b056-02453c34d455) and start prompting.
+## ✅ What’s Done (v1+)
 
-Changes made via Lovable will be committed automatically to this repo.
+### 🔐 Wallet Support
+- Seamless connect for **Sui**, **EVM**, and **Solana** wallets
 
-**Use your preferred IDE**
+### 🧠 AI Strategy Engine
+- Personalized recommendations based on:
+  - Market conditions (live feeds)
+  - Protocol TVL, security history
+  - Historical yields
+  - User risk profile: Conservative / Moderate / Aggressive
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### ⚙️ Automated Execution
+- Multi-step strategy execution in one click  
+- Fully automated swaps, deposits, and staking
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 📊 Portfolio Tracking
+- Real-time dashboard with:
+  - APY calculations
+  - Strategy breakdown
+  - Live performance metrics
 
-Follow these steps:
+### 🌗 Theming & UX
+- Smooth dark/light mode transitions  
+- Responsive and sleek UI
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🔄 Share Strategies Socially
+- Integrated sharing to:  
+  Twitter, Telegram, Warpcast, WhatsApp, LinkedIn, Instagram, TikTok
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🔐 Auth & Access
+- Secure authentication flows
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 💸 DeFi Lending Page
+- View lending opportunities by risk & return
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 📈 Live Strategies Page
+- Browse community strategies  
+- Sort by performance, protocol, and APY
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🔜 Coming Next (Next Release)
 
-**Use GitHub Codespaces**
+We're honest and transparent — here's what’s being wrapped up:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+- 📊 Enhance analytics for in-depth performance insights
+- 🧪 User strategy backtesting & simulation (in dev)
+- 🔔 Notifications for APY changes & strategy health
+- 🌐 Multichain support starting with Aptos & Base
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🛠️ Technical Highlights
 
-## How can I deploy this project?
+- Built entirely on **Sui** with the **Eliza OS Framework**
+- Integrated with the [Eliza Sui Plugin](https://github.com/elizaos-plugins/plugin-sui)
+- AI-powered strategy generation using:
+  - Natural language prompts
+  - Multi-protocol risk-aware logic
+  - Dynamic capital allocation per strategy
+- Secure multi-step transaction handling on-chain
+- Real-time indexing & reporting of positions
 
-Simply open [Lovable](https://lovable.dev/projects/8caea8e8-52f7-45be-b056-02453c34d455) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 💬 Reach Out
 
-Yes it is!
+I’d love to hear feedback or jam on ideas. Feel free to DM, follow, or collaborate:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- 🐦 Twitter: [@imchiragkumar](https://twitter.com/imchiragkumar)
+- 💻 GitHub: [@ichiragkumar](https://github.com/ichiragkumar)
+- 👔 LinkedIn: [ichiragkumar](https://linkedin.com/in/ichiragkumar)
+- 📸 Instagram: [@ichiragkumar](https://instagram.com/ichiragkumar)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+
+> I believe this is more than just a v1 – it’s a launchpad for the future of personalized DeFi on Sui.  
+> Let’s make DeFi powerful, easy, and human.
+
