@@ -1,5 +1,7 @@
 # 💜 DeFi Strategy Agent - v1+
 
+🔗 [Try it live →](https://sui-defi-navigator.lovable.app)
+
 _Built with ❤️ using [Lovable](https://lovable.dev)  
 Crafted for the Sui ecosystem using Eliza OS_
 
@@ -55,7 +57,7 @@ The **AI-powered DeFi Strategy Agent** is your personal DeFi co-pilot on the **S
 
 ## 🔜 Coming Next (Next Release)
 
-We're honest and transparent — here's what’s being wrapped up:
+We're honest and transparent — here’s what’s being wrapped up:
 
 
 - 📊 Enhance analytics for in-depth performance insights
@@ -91,4 +93,3 @@ I’d love to hear feedback or jam on ideas. Feel free to DM, follow, or collabo
 
 > I believe this is more than just a v1 – it’s a launchpad for the future of personalized DeFi on Sui.  
 > Let’s make DeFi powerful, easy, and human.
-
